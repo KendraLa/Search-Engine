@@ -61,6 +61,10 @@ p {
   top: -34px;
 }
 
+.links {
+  display: block;
+}
+
 button {
   display: block;
   margin: 0 auto;
