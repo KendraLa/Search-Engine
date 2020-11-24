@@ -29,6 +29,7 @@ p {
   color: blueviolet;
   font-size: 10px;
   font-style: italic;
+  text-align: center;
 }
 
 .search-engine {
@@ -63,6 +64,7 @@ p {
 
 .links {
   display: block;
+  text-align: center;
 }
 
 button {
